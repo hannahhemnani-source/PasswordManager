@@ -26,7 +26,7 @@ Dependencies
 
 Installing
 - Clone the project from Git repository to local computer
-'''git clone https://git-lab.cyber.warwick.ac.uk/c5680156/wm187_safepass_5680156/-/tree/ef86e3f5f0f8029b1d1fe5284509d6c089452689/'''
+'''git clone https://github.com/hannahhemnani-source/PasswordManager.git'''
 - change current folder into repository folder
 '''cd <wm187_safepass_5680156>'''
 - Ensure the database.sql file path in init_db() matches where it has been stored. In the code this it stored under '/Users/hannahhemnani/Desktop/WM187/Password Manager/database.sql'
